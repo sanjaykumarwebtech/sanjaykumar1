@@ -1413,14 +1413,14 @@ textarea.input-field {
   flex-direction: column;
   align-items: center;
   text-decoration: none;
-  color: #2842b3;
+  color: #1a1b1b;
   font-size: 12px;
 }
 
 .mobile-bottom-nav .nav-item i {
   font-size: 22px;
   margin-bottom: 5px;
-  color: #2842b3;
+  color: #0f0f0f;
 }
 
 .mobile-bottom-nav .nav-item span {
